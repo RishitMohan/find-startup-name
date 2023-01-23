@@ -72,7 +72,7 @@ maxLength={100}
   </Form.Group>
   <Button type='submit'   className='mb-3'  disabled={ideaLoading}  >
   
-  show steps
+  generate name
   
   </Button>
 
